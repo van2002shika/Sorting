@@ -10,6 +10,7 @@ public class NewSort {
         int arr[] = { 4, 3, 2, 1 };
  
         // Outer loop
+        
         for (int i = 0; i < arr.length; i++) {
  
             // Inner nested loop pointing 1 index ahead
